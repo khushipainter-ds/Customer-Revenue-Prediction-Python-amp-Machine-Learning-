@@ -15,7 +15,8 @@ Python | Scikit-learn | Pandas | NumPy | Matplotlib | Seaborn
 | File | Description |
 |------|-------------|
 | `revenue_prediction.ipynb` | Main analysis notebook |
-| `dataset.csv` | Customer dataset |
+| `finance_train dataset.csv` |  Train Customer dataset |
+| `finance_test dataset.csv` | Test Customer dataset |
 
 ## Steps
 1. Data Cleaning & EDA
